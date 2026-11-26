@@ -7,6 +7,10 @@
 
 终端以所选文件夹为工作目录。普通文件和多选不会显示这两项。原有服务继续由 macOS 放在「服务」子菜单里。
 
+## 截图
+
+![Finder 文件夹右键菜单，显示「在 Ghostty 中打开」和「在 Otty 中打开」](docs/images/finder-context-menu.png)
+
 ## 环境
 
 - 在 Apple Silicon、macOS 26.6.2、Ghostty 1.4.0 和 Otty 1.6.5 上验证。其他 macOS 版本、Intel Mac 和云盘目录未验证。
