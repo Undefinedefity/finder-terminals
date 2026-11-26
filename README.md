@@ -1,5 +1,7 @@
 # Finder Terminals
 
+**简体中文** · [English](README.en.md)
+
 在 macOS 的 Finder（访达）中右键单个普通文件夹，一级菜单会出现两个入口。
 
 - **在 Ghostty 中打开**
